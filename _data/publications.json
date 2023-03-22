@@ -1,0 +1,47 @@
+[
+	{
+		"id": "http://zotero.org/users/local/N5K1u8XA/items/AULTG2KR",
+		"type": "article-journal",
+		"container-title": "ENERGY & ENVIRONMENTAL MATERIALS",
+		"DOI": "10.1002/eem2.12494",
+		"ISSN": "2575-0356, 2575-0356",
+		"journalAbbreviation": "Energy & Environ Materials",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "Solvation Effects on the Dielectric Constant of 1 M <span style=\"font-variant:small-caps;\">LiPF6</span> in Ethylene Carbonate: Ethyl Methyl Carbonate 3:7",
+		"title-short": "Solvation Effects on the Dielectric Constant of 1 M <span style=\"font-variant",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1002/eem2.12494",
+		"author": [
+			{
+				"family": "Self",
+				"given": "Julian"
+			},
+			{
+				"family": "Hahn",
+				"given": "Nathan T."
+			},
+			{
+				"family": "Persson",
+				"given": "Kristin A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					6
+				]
+			]
+		}
+	}
+]
