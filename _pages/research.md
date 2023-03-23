@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-We are currently interesting in researching the physical chemistry and electrochemistry of phase diagrams for liquid electrolytes used in electrochemical devices and hydrometallurgical applications.
+We are currently interested in the physical chemistry and electrochemistry of liquid electrolytes used in electrochemical devices and hydrometallurgical applications. These can range from non-aqueous solvents (such as carbonates and ethers) to aqueous electrolytes with conventional salts or acids. 
 
-Subjects of interest are the freezing point of liquid electrolytes as a function of composition and temperature, as well as the solubilty limits.
+Examples of interest include tying freezing point of liquid electrolytes as a function of composition and temperature, as well as the solubilty limits, to nanoscopic thermodynamics and molecular and ionic interactions.
 
