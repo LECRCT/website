@@ -11,8 +11,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website for the Liquid Electrolyte Research Group at Polytechnique Montréal.
 domain: https://lecrct.github.io/website/
-baseurl: lecrct.github.io
-url: /website/
+baseurl: 
+url: 
 
 include:
   - .htaccess
