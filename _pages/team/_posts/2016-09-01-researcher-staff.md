@@ -4,7 +4,7 @@ category: staff
 title: Dr. Julian Self
 image: researcher.png
 role: Group Lead
-permalink: 'team/researcher-name'
+permalink: 'website/team/researcher-name'
 social:
 ---
 
