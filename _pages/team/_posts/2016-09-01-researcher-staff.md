@@ -3,7 +3,7 @@ layout: member
 category: staff
 title: Dr. Julian Self
 image: researcher.png
-role: Group Lead
+role: Group lead
 permalink: 'team/researcherA'
 social:
 ---
