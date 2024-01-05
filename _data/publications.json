@@ -1,8 +1,99 @@
 [
 	{
+		"id": "http://zotero.org/users/local/N5K1u8XA/items/ITRN6JW2",
+		"type": "article-journal",
+		"abstract": "One of the current efforts of Li-ion battery technology research is to enable the operation of lithium-ion batteries in low temperature environments (<0 °C). However, the ternary phase diagrams of liquid electrolytes commonly used in lithium-ion cells are generally unknown. We herein study the liquidus surface of a ternary liquid electrolyte up to 1 m LiPF6 in ethylene carbonate and ethyl methyl carbonate. We find that literature electrochemical and thermodynamic measurements of the composing binary electrolytes, in addition to limited ternary liquidus data, can be used to recover the liquidus surface via appropriate mixing terms.",
+		"container-title": "The Journal of Physical Chemistry Letters",
+		"DOI": "10.1021/acs.jpclett.3c03169",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Hypoeutectic Liquid–Solid Phase Diagrams for Ternary Lithium-Ion Battery Electrolytes",
+		"author": [
+			{
+				"family": "Self",
+				"given": "Julian"
+			},
+			{
+				"family": "Bergstrom",
+				"given": "Helen K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/N5K1u8XA/items/PBJ5XWCC",
+		"type": "article-journal",
+		"abstract": "Accessing the energy density and sustainability of calcium metal batteries requires mastering reversible calcium electrodeposition through electrolyte design. Several electrolytes support reversible, ambient temperature deposition but at utilization and rate too low for practical applications. These challenges stem from solvation structures characterized by either high barriers for cation desolvation or thermodynamic instability, leading to parasitic decomposition of the salt and solvent. The optimal solvation structure for the effective delivery of calcium to the electrode interface is not known. In this work, we show that adding a relatively small amount of a weakly associating calcium salt (calcium carba-closo-dodecaborate) to an otherwise strongly associated solution (calcium borohydride in tetrahydrofuran) produces a surprising population of fully solvent-coordinated Ca2+ cations in the form of solvent-separated ion pairs (SSIPs). We further demonstrate that the formation of these SSIPs beneficially impacts the kinetics and thermodynamics of calcium electrodeposition, revealing the unexpected finding that direct coordination of Ca2+ by the BH4− anion limits the electrodeposition process. These findings reveal how the competition between solvent and anion coordination to Ca2+ affects calcium deposition kinetics and cycling stability, setting the stage for a new calcium electrolyte design based on mixed anion electrolytes.",
+		"container-title": "The Journal of Physical Chemistry C",
+		"DOI": "10.1021/acs.jpcc.3c05757",
+		"ISSN": "1932-7447, 1932-7455",
+		"issue": "49",
+		"journalAbbreviation": "J. Phys. Chem. C",
+		"language": "en",
+		"page": "23664-23674",
+		"source": "DOI.org (Crossref)",
+		"title": "Calcium Cosalt Addition to Alter the Cation Solvation Structure and Enhance the Ca Metal Anode Performance",
+		"URL": "https://pubs.acs.org/doi/10.1021/acs.jpcc.3c05757",
+		"volume": "127",
+		"author": [
+			{
+				"family": "Landers",
+				"given": "Alan T."
+			},
+			{
+				"family": "Self",
+				"given": "Julian"
+			},
+			{
+				"family": "McClary",
+				"given": "Scott A."
+			},
+			{
+				"family": "Fritzsching",
+				"given": "Keith J."
+			},
+			{
+				"family": "Persson",
+				"given": "Kristin A."
+			},
+			{
+				"family": "Hahn",
+				"given": "Nathan T."
+			},
+			{
+				"family": "Zavadil",
+				"given": "Kevin R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					14
+				]
+			]
+		}
+	},
+	{
 		"id": "http://zotero.org/users/local/N5K1u8XA/items/AULTG2KR",
 		"type": "article-journal",
-		"container-title": "ENERGY & ENVIRONMENTAL MATERIALS",
+		"container-title": "Energy & Environmental Materials",
 		"DOI": "10.1002/eem2.12494",
 		"ISSN": "2575-0356, 2575-0356",
 		"journalAbbreviation": "Energy & Environ Materials",
