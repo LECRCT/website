@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Maxime Poisson
-image: MaximePoisson.jpg
+image: Maxime.jpg
 role: Undergraduate student
 permalink: 'team/researcherD'
 social:
