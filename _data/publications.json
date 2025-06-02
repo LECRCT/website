@@ -1,5 +1,55 @@
 [
 	{
+		"id": "Relating Self 2025",
+		"type": "article-journal",
+		"abstract": "The activities of individual solvent species in multi-solvent ternary liquid electrolytes dictate liquid-solid equilibria and are pertinent to transport phenomena. Nonetheless, considerable scholarship has assumed that such electrolytes can be modeled as single-solvent electrolytes. Relaxing this assumption, we show in the present work that knowledge of the activity of ionic species, described by the salt thermodynamic factor and the transfer activity coefficients at infinite dilution, is sufficient to calculate activity changes of individual solvent species for ternary multi-solvent electrolytes. We also propose measurements of an individual solvent species activity as a method to study (ionic) solvent transfer energies. We apply the derived relationships to the well-characterized liquid electrolyte system LiCl in H\n              2\n              O-EtOH. We also study a non-aqueous electrolyte solution, LiPF\n              6\n              in EC-EMC, which is important for lithium-ion battery technology. For the latter, we show that in the studied composition space there are non-negligible transfer activity coefficients, highlighting the importance of a multisolvent description of the ternary electrolytes.",
+		"container-title": "Journal of The Electrochemical Society",
+		"DOI": "10.1149/1945-7111/ada646",
+		"ISSN": "0013-4651, 1945-7111",
+		"issue": "1",
+		"journalAbbreviation": "J. Electrochem. Soc.",
+		"language": "en",
+		"page": "010519",
+		"source": "DOI.org (Crossref)",
+		"title": "Relating the Salt Thermodynamic Factor to Solvent Activities in Ternary Multi-Solvent Electrolytes",
+		"URL": "https://iopscience.iop.org/article/10.1149/1945-7111/ada646",
+		"volume": "172",
+		"author": [
+			{
+				"family": "Self",
+				"given": "Julian"
+			},
+			{
+				"family": "Al-Salih",
+				"given": "Hilal"
+			},
+			{
+				"family": "Abu-Lebdeh",
+				"given": "Yaser"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					6,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					1,
+					1
+				]
+			]
+		}
+	}
+]
+[
+	{
 		"id": "http://zotero.org/users/local/N5K1u8XA/items/ITRN6JW2",
 		"type": "article-journal",
 		"abstract": "One of the current efforts of Li-ion battery technology research is to enable the operation of lithium-ion batteries in low temperature environments (<0 °C). However, the ternary phase diagrams of liquid electrolytes commonly used in lithium-ion cells are generally unknown. We herein study the liquidus surface of a ternary liquid electrolyte up to 1 m LiPF6 in ethylene carbonate and ethyl methyl carbonate. We find that literature electrochemical and thermodynamic measurements of the composing binary electrolytes, in addition to limited ternary liquidus data, can be used to recover the liquidus surface via appropriate mixing terms.",
