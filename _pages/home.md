@@ -6,12 +6,12 @@ sitemap: false
 permalink: /
 ---
 
-### About the Lab
+### About the Research Group
 
 Our research group is part of the Centre for Research in Computational Thermochemistry at the Polytechnique Montréal.
 
 The images above show:
  
-(1) Different quantities of interest for li-ion and multivalent batteries, which are relevant at different time and lengths scales.
+(1) Probing the freezing temperature of lithium-ion battery ternary electrolytes through differential scanning calorimetry. Top left schematic adapted from the Handbook of Batteries. See ["Relating the salt thermodynamic factor to solvent activities in ternary multi-solvent electrolytes."](https://iopscience.iop.org/article/10.1149/1945-7111/ada646/meta)
  
-(2) The flowsheet for a hydrometallurgical process where the thermodynamic driving forces for dissolution, and the solubility limits for a ternary electrolyte system are illustrated.
+(2) Solvent transfer energies of lithium chloride in ternary water-ethanol mixture.
