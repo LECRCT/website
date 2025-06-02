@@ -14,4 +14,4 @@ The images above show:
  
 (1) Probing the freezing temperature of lithium-ion battery ternary electrolytes through differential scanning calorimetry. Top left schematic adapted from the Handbook of Batteries. See ["Relating the salt thermodynamic factor to solvent activities in ternary multi-solvent electrolytes."](https://iopscience.iop.org/article/10.1149/1945-7111/ada646/meta)
  
-(2) Solvent transfer energies of lithium chloride in ternary water-ethanol mixture.
+(2) Solvent transfer energies of lithium chloride in water-ethanol mixtures.
