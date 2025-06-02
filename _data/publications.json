@@ -47,10 +47,8 @@
 			]
 		}
 	}
-]
-[
 	{
-		"id": "http://zotero.org/users/local/N5K1u8XA/items/ITRN6JW2",
+		"id": "JPCL-2024",
 		"type": "article-journal",
 		"abstract": "One of the current efforts of Li-ion battery technology research is to enable the operation of lithium-ion batteries in low temperature environments (<0 °C). However, the ternary phase diagrams of liquid electrolytes commonly used in lithium-ion cells are generally unknown. We herein study the liquidus surface of a ternary liquid electrolyte up to 1 m LiPF6 in ethylene carbonate and ethyl methyl carbonate. We find that literature electrochemical and thermodynamic measurements of the composing binary electrolytes, in addition to limited ternary liquidus data, can be used to recover the liquidus surface via appropriate mixing terms.",
 		"container-title": "The Journal of Physical Chemistry Letters",
