@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-### About the research group
+### About the research group 
 
 Our research group is part of the Centre for Research in Computational Thermochemistry at the Polytechnique Montréal.
 
