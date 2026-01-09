@@ -1,5 +1,59 @@
 [
 	{
+		"id": "http://zotero.org/users/local/N5K1u8XA/items/YVLWGJ6Z",
+		"type": "article-journal",
+		"abstract": "The phase stability of liquid electrolytes for lithium-ion batteries is often a limiting factor for their operation, particularly under low temperature conditions and near the solubility limits. Despite the central role of the thermodynamic activities of nonaqueous electrolyte components in governing phase behavior, they generally remain poorly investigated in concentrated regimes. In the current work, we investigate concentrated electrolytes via the study of the thermodynamic activities of species in solution up to the first solid solvate composition for two binary lithium-ion battery carbonate electrolytes: LiPF6 in ethylene carbonate and LiPF6 in dimethyl carbonate. The enthalpies of fusion of the relevant solid solvates (EC)4LiPF6 and (DMC)3LiPF6 were measured to determine the activities of the species from reported solid−liquid equilibrium data up to the first solvate composition. For LiPF6 in ethylene carbonate, we find that deviations from ideality continue to increase with concentration beyond the dilute limit up to 3.54 m. For LiPF6 in dimethyl carbonate, we find that the salt activity coefficient continues to decrease beyond the dilute limit to moderate concentrations before increasing monotonically until the solvate composition. Our approach taken herein to use binary activity data in the study of liquidus lines and solution energetics will aid in the study of practical ternary Li-ion battery electrolytes, for which thermal stability is important but generally unresolved.",
+		"container-title": "The Journal of Physical Chemistry B",
+		"DOI": "10.1021/acs.jpcb.5c05664",
+		"ISSN": "1520-6106, 1520-5207",
+		"issue": "51",
+		"journalAbbreviation": "J. Phys. Chem. B",
+		"language": "en",
+		"license": "https://doi.org/10.15223/policy-029",
+		"page": "13221-13229",
+		"source": "DOI.org (Crossref)",
+		"title": "Salt and Solvent Activities up to the Solvate Composition for LiPF<sub>6</sub> in Ethylene Carbonate and LiPF<sub>6</sub> in Dimethyl Carbonate",
+		"URL": "https://pubs.acs.org/doi/10.1021/acs.jpcb.5c05664",
+		"volume": "129",
+		"author": [
+			{
+				"family": "Trabelsi",
+				"given": "Maissa"
+			},
+			{
+				"family": "Al-Salih",
+				"given": "Hilal"
+			},
+			{
+				"family": "Abu-Lebdeh",
+				"given": "Yaser"
+			},
+			{
+				"family": "Self",
+				"given": "Julian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					12,
+					25
+				]
+			]
+		}
+	},
+	{
+
 		"id": "Relating Self 2025",
 		"type": "article-journal",
 		"abstract": "The activities of individual solvent species in multi-solvent ternary liquid electrolytes dictate liquid-solid equilibria and are pertinent to transport phenomena. Nonetheless, considerable scholarship has assumed that such electrolytes can be modeled as single-solvent electrolytes. Relaxing this assumption, we show in the present work that knowledge of the activity of ionic species, described by the salt thermodynamic factor and the transfer activity coefficients at infinite dilution, is sufficient to calculate activity changes of individual solvent species for ternary multi-solvent electrolytes. We also propose measurements of an individual solvent species activity as a method to study (ionic) solvent transfer energies. We apply the derived relationships to the well-characterized liquid electrolyte system LiCl in H\n              2\n              O-EtOH. We also study a non-aqueous electrolyte solution, LiPF\n              6\n              in EC-EMC, which is important for lithium-ion battery technology. For the latter, we show that in the studied composition space there are non-negligible transfer activity coefficients, highlighting the importance of a multisolvent description of the ternary electrolytes.",
