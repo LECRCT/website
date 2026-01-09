@@ -26,6 +26,6 @@ Subjects of interest include tying the freezing point of liquid electrolytes as 
 ## 2025-11-01
 
 
-  <img src="/images/research/image.jpg" width="300"><br>
+  <img src="/images/research/Flask.jpg" width="300"><br>
 Vapour pressure measurements are fundamental in physical chemistry to probe interactions in liquid solutions. Vapor pressure is also what will tell you whether a perfume ingredient is a base note, heart note, or top note!
 [Upcoming talk on vapor pressure measurements applied to perfumes at the Institute of Art and Olfaction](https://artandolfaction.com/events/perfume-chemistry-vapor-pressure-101-with-dr-julian-self-online/). Although the talk will not be posted online, a follow up is planned for the upcoming year which will be. (Image above: a liquid in a flask, establishing an equilibrium with its vapor phase.)
