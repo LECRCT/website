@@ -24,6 +24,9 @@ Subjects of interest include tying the freezing point of liquid electrolytes as 
 
 <img width="512" src="{{ '/images/Salt_truck_Milwaukee.jpg' | relative_url }}" alt="Salt truck">
 
+<img width="512" src="{{ 'https://lecrct.github.io/website/images/Salt_truck_Milwaukee.jpg' | relative_url }}" alt="Salt truck">
+
+
 [Freezing point depression](https://en.wikipedia.org/wiki/Freezing-point_depression) of liquid electrolytes is a fundamental and well known concept. It explains why oceans will stay liquid at temperatures lower than fresh water lakes. It is also used as a probe to understand the various interactions in a liquid mixture. Here is a thermodynamic treatment of freezing point depression, with calcium chloride in water as an example. Most treatments available utilize advanced thermodynamic relations such as a Gibbs-Duhem relationship or the Gibbs-Helmholtz equation. This one, in an effort for simplicity, does not.  [Download the document](Post-2026-01-09.pdf). (Image above from Michael Pereckas from Milwaukee, WI, USA, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons).
 
 
