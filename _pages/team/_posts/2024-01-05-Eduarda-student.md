@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: alumni
 title: Eduarda Depiné Dornelles da Silva
 image: eduarda.jpg
 role: Graduate student
