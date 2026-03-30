@@ -16,14 +16,6 @@ Subjects of interest include tying the freezing point of liquid electrolytes as 
 
 ## 2026-01-09
 
-{% comment %}
-#'<a title="Michael Pereckas from Milwaukee, WI, USA, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/#File:Salt_truck_Milwaukee.jpg"><img width="512" alt="Salt truck Milwaukee" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Salt_truck_Milwaukee.jpg/512px-#Salt_truck_Milwaukee.jpg?20070926113123"></a>'
-<a href="https://commons.wikimedia.org/wiki/File:Salt_truck_Milwaukee.jpg">
-  <img width="512" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Salt_truck_Milwaukee.jpg/512px-Salt_truck_Milwaukee.jpg">
-  <img width="512" src="{{ 'https://lecrct.github.io/website/images/Salt_truck_Milwaukee.jpg' | relative_url }}" alt="Salt truck">
-
-{% endcomment %}
-
 <img width="512" src="{{ '/images/Salt_truck_Milwaukee.jpg' | relative_url }}" alt="Salt truck">
 
 
