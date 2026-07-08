@@ -1,4 +1,55 @@
 [
+		{
+		"id": "http://zotero.org/users/local/N5K1u8XA/items/84IYERYB",
+		"type": "article-journal",
+		"abstract": "Solid−liquid equilibria of aqueous transition-metal sulfate solutions are relevant to hydrometallurgical processes, including those arising in the recycling of lithium-ion batteries. However, for many ternary systems, the solubility limits are known only in limited temperature ranges, and the nature of the solids formed is unresolved. We perform material balance solubility measurements combined with theoretical modeling to study the solubility limits of the FeSO4−NiSO4−H2O system, which involves solid solutions. We characterize the composition of the solid solutions from 279.2 to 283.2 K using chemical analysis and powder X-ray diffraction. The agreement between the thermodynamic model and experimental compositions for the liquid and solid phases shows that the proposed equilibrium constants, ideal solid solution model, and Pitzer equations employed allow fair modeling of phase equilibria.",
+		"container-title": "Journal of Chemical & Engineering Data",
+		"DOI": "10.1021/acs.jced.5c00736",
+		"ISSN": "0021-9568, 1520-5134",
+		"journalAbbreviation": "J. Chem. Eng. Data",
+		"language": "en",
+		"license": "https://creativecommons.org/licenses/by/4.0/",
+		"page": "acs.jced.5c00736",
+		"source": "DOI.org (Crossref)",
+		"title": "Material Balance Probing of Aqueous Iron–Nickel Sulfate Solid–Liquid Equilibria from 279.2 to 283.2 K",
+		"URL": "https://pubs.acs.org/doi/10.1021/acs.jced.5c00736",
+		"author": [
+			{
+				"family": "Depiné Dornelles Da Silva",
+				"given": "Eduarda"
+			},
+			{
+				"family": "Oishi",
+				"given": "Kentaro"
+			},
+			{
+				"family": "Harvey",
+				"given": "Jean-Philippe"
+			},
+			{
+				"family": "Self",
+				"given": "Julian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					2
+				]
+			]
+		}
+	},
 	{
 		"id": "http://zotero.org/users/local/N5K1u8XA/items/YVLWGJ6Z",
 		"type": "article-journal",
